@@ -1,7 +1,3 @@
----
-permalink:/index.md
----
-
 
 ## Welcome to GitHub Pages
 
