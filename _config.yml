@@ -3,7 +3,7 @@ title: Giovanni's web page
 author:
   name: Giovanni Soldà
   email: mmgs at leeds dot ac.uk
-# description: "Great site about Jekyll on GH-Pages."
+  description: [Orchid](https://orcid.org/0000-0003-4903-3623)
 
 # Build settings
 remote_theme: jekyll/minima
