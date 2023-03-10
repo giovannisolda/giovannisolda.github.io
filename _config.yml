@@ -4,6 +4,9 @@ author:
   name: Giovanni Soldà
   email: giovanni dot a dot solda at gmail.com
   description: [Orchid](https://orcid.org/0000-0003-4903-3623)
+  
+exclude:
+ - README.md
 
 # Build settings
 remote_theme: jekyll/minima
