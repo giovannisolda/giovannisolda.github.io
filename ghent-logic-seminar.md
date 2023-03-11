@@ -28,7 +28,7 @@ Joint work with Anton Freund and Giovanni Soldá
 </p>
 </details>
    
-<summary>CLICK ME</summary>
+<details><summary>CLICK ME</summary>
 <p>
 
 #### yes, even hidden code blocks!
@@ -38,4 +38,4 @@ print("hello world!")
 ```
 
 </p>
-
+</details>
