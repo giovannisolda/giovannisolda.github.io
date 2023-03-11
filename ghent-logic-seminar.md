@@ -23,3 +23,15 @@ j.w.w. Peter Schuster and Andreas Weiermann
 Abstract: The notion of better quasi order, due to Nash-Williams, has led to a rich body of results, which includes Laver’s famous proof of Fraïssé’s conjecture. A central tool is the minimal bad array principle. In the present paper, we show that this principle is exceptionally strong from the viewpoint of reverse mathematics, a framework from mathematical logic. Specifically, it is equivalent to Π¹₂-comprehension over the base theory ATR₀.
 
 Joint work with Anton Freund and Giovanni Soldá
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
