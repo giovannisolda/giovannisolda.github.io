@@ -18,12 +18,16 @@ j.w.w. Peter Schuster and Andreas Weiermann
 
 #### Thursday 23.02.2023: Fedor Pakhomov, Ghent University
 
-##### Title: The Logical Strength of Minimal Bad Array Lemma
-
+#####<details><summary> Title: The Logical Strength of Minimal Bad Array Lemma</summary>
+ <p>
+   
 Abstract: The notion of better quasi order, due to Nash-Williams, has led to a rich body of results, which includes Laver’s famous proof of Fraïssé’s conjecture. A central tool is the minimal bad array principle. In the present paper, we show that this principle is exceptionally strong from the viewpoint of reverse mathematics, a framework from mathematical logic. Specifically, it is equivalent to Π¹₂-comprehension over the base theory ATR₀.
 
 Joint work with Anton Freund and Giovanni Soldá
 
+</p>
+</details>
+   
 <details><summary>CLICK ME</summary>
 <p>
 
