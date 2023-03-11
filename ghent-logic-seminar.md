@@ -13,3 +13,16 @@ Abstract: Higman’s lemma and Kruskal’s theorem are two of the most celebrate
 J.B. Kruskal was well aware of this more general set up; in the very end of his famous article, he explicitly stated how Higman’s theorem is a special version, restricted to trees of finite branching degree, of Kruskal’s own tree theorem.
 In this talk, we present proof-theoretic relations between different version of Higman's and Kruskal's theorems, establishing also their proof-theoretic ordinals.
 j.w.w. Peter Schuster and Andreas Weiermann
+
+
+### Thursday 23.02.2023: Fedor Pakhomov, Ghent University
+
+#### Title: The Logical Strength of Minimal Bad Array Lemma
+
+Abstract:
+
+Joint work with Anton Freund and Giovanni Soldá
+
+The notion of better quasi order, due to Nash-Williams, has led to a rich body of results, which includes Laver’s famous proof of Fraïssé’s conjecture. A central tool is the minimal bad array principle. In the present paper, we show that this principle is exceptionally strong from the viewpoint of reverse mathematics, a framework from mathematical
+logic. Specifically, it is equivalent to Π¹₂-comprehension over the base
+theory ATR₀.
