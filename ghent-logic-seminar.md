@@ -7,7 +7,8 @@ The Ghent Logic Seminar takes place weekly, usually at 11pm (CET) on Thursdays. 
 
 #### Thursday 02.03.2023: Gabriele Buriola, University of Verona
 
-##### Title: Higman and Kruskal in Reverse Mathematics
+<details><summary><h5> Title: Higman and Kruskal in Reverse Mathematics</h5></summary>
+ <p>
 
 Abstract: Higman’s lemma and Kruskal’s theorem are two of the most celebrated results in the theory of well quasi-orders. In his seminal paper, G. Higman obtained what is known as Higman’s lemma as a corollary of a more general theorem, dubbed here Higman’s theorem.
 J.B. Kruskal was well aware of this more general set up; in the very end of his famous article, he explicitly stated how Higman’s theorem is a special version, restricted to trees of finite branching degree, of Kruskal’s own tree theorem.
@@ -15,7 +16,10 @@ In this talk, we present proof-theoretic relations between different version of 
 
 j.w.w. Peter Schuster and Andreas Weiermann
 
-
+</p>
+</details>
+  
+  
 #### Thursday 23.02.2023: Fedor Pakhomov, Ghent University
 
 <details><summary><h5> Title: The Logical Strength of Minimal Bad Array Lemma</h5></summary>
