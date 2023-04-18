@@ -3,7 +3,7 @@ layout: page
 title: Ghent Mathematical Logic Seminar
 ---
 
-The Ghent Logic Seminar takes place weekly, usually at 11pm (CET) on Thursdays. Most of the seminars can be attended either in person or on Zoom. For the zoom link, or for the recording of the talk, get in touch with [Andreas Weiermann](http://cage.ugent.be/~weierman/), [Fedor Pakhomov](https://research.ugent.be/web/person/fedor-pakhomov-0/en), or me.
+The Ghent Logic Seminar takes place weekly, usually at 11pm (CET) on Thursdays. Most of the seminars can be attended either in person or on Zoom. For the zoom link, or for the recording of the talks, get in touch with [Andreas Weiermann](http://cage.ugent.be/~weierman/), [Fedor Pakhomov](https://research.ugent.be/web/person/fedor-pakhomov-0/en), or me.
 
 #### Thursday 02.03.2023: Gabriele Buriola, University of Verona
 
