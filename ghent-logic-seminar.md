@@ -30,8 +30,9 @@ Abstract: The notion of better quasi order, due to Nash-Williams, has led to a r
 Joint work with Anton Freund and Giovanni Soldá
 
 </p>
+ </nobr>
 </details>
-   
+
    
    
 <!---   
