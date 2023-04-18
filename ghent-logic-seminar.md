@@ -7,7 +7,7 @@ The Ghent Logic Seminar takes place weekly, usually at 11pm (CET) on Thursdays. 
 
 #### Thursday 02.03.2023: Gabriele Buriola, University of Verona
 
-<details><h5> Title: Higman and Kruskal in Reverse Mathematics</h5>
+<details><summary><h5> Title: Higman and Kruskal in Reverse Mathematics</h5></summary>
  <p>
 
 Abstract: Higman’s lemma and Kruskal’s theorem are two of the most celebrated results in the theory of well quasi-orders. In his seminal paper, G. Higman obtained what is known as Higman’s lemma as a corollary of a more general theorem, dubbed here Higman’s theorem.
@@ -22,7 +22,7 @@ j.w.w. Peter Schuster and Andreas Weiermann
   
 #### Thursday 23.02.2023: Fedor Pakhomov, Ghent University
 
-<details><summary><h5> Title: The Logical Strength of Minimal Bad Array Lemma</h5></summary>
+<details><nobr><summary><h5> Title: The Logical Strength of Minimal Bad Array Lemma</h5></summary>
  <p>
    
 Abstract: The notion of better quasi order, due to Nash-Williams, has led to a rich body of results, which includes Laver’s famous proof of Fraïssé’s conjecture. A central tool is the minimal bad array principle. In the present paper, we show that this principle is exceptionally strong from the viewpoint of reverse mathematics, a framework from mathematical logic. Specifically, it is equivalent to Π¹₂-comprehension over the base theory ATR₀.
