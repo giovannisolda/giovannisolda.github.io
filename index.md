@@ -12,4 +12,4 @@ I am Giovanni Soldà, currently I am a post-doc at Ghent University. Before that
 
 Quite clearly, this is site is still under construction.
 
-Here is a link to the page of the <a href="https://giovannisolda.github.io/ghent-logic-seminar.html">Ghent Mathematical Logic Seminar<\a>.
+Here is a link to the page of the <a href="https://giovannisolda.github.io/ghent-logic-seminar.html">Ghent Mathematical Logic Seminar</a>.
